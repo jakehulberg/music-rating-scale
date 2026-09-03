@@ -37,9 +37,6 @@ Candidate names are suggestions, not decisions.
    shot), **Cold**, **Dud**.
 2. **A song that is overrated.** Candidates: **Fool's Gold** (looks certified,
    isn't), **Counterfeit**, **Overcooked**.
-3. **What "certified" means concretely.** Time held, listen count, or still hits
-   on a cold listen after a long break.
-4. **"Certified Generational Banger."** Emphasis, or a distinct thing?
 
 <details>
 <summary>Text versions of the ladder</summary>
