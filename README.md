@@ -11,9 +11,9 @@
 | 0 | **Sleeper** | | Before the ladder. You just found it and don't know yet. Could be fire. |
 | 1 | **Heater** | | New and clearly on its way. "This could become a banger for sure." |
 | 2 | **Fire** | | Past heater. Not yet a banger. |
-| 3 | **Banger** | | It hits. |
-| 4 | **Certified Banger** | Certified | Has held up over time. Certified means proven. |
-| 5 | **Certified Platinum Banger** | Platinum | Top of what a song earns. |
+| 3 | **Banger** | | It hits. It really hits. |
+| 4 | **Certified Banger** | Certified | Unmistakingly a banger. Anyone who doubts this is a banger doesn't have ears |
+| 5 | **Certified Platinum Banger** | Platinum | Top of what a song earns. Very, very rare |
 | 6 | **Generational Banger** | Generational | Eternal platinum. Never falls off. Certification is baked in. |
 
 ## How songs move
