@@ -20,7 +20,7 @@
 
 - A song you have just found and think might have potential is a **Sleeper**. This is used when a song is in 
 an uncertain place. This song has _potential_ to someday become something.
-- Songs _generally_enter the ladder as a **Heater** and move up as they prove themselves:
+- Songs _generally_ enter the ladder as a **Heater** and move up as they prove themselves:
   Heater, Fire, Banger, then the certified tiers. Very few songs become certified, so use this sparingly.
 - **Platinum** is the top of what a song can earn. **Generational** is a Platinum
   that will never fall off.
