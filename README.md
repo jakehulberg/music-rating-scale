@@ -1,15 +1,10 @@
 # Music Rating Scale
 
-**Status: work in progress.** The six rungs and the Sleeper entry state are
-locked. Words for bad and overrated songs are still open.
-
 <p align="center">
   <img src="assets/scale.svg" alt="Music Rating Scale pyramid: Sleeper, Heater, Fire, Banger, Certified Banger, Certified Platinum Banger, Generational Banger" width="800">
 </p>
 
 ## The ladder
-
-Banger is the noun. Everything above it is a modifier on Banger.
 
 | # | Full name | Short | Meaning |
 |---|---|---|---|
@@ -23,17 +18,16 @@ Banger is the noun. Everything above it is a modifier on Banger.
 
 ## How songs move
 
-- A song you have just found is a **Sleeper**. It is a state, not a rung: the
-  uncertainty before a song has earned a place.
+- A song you have just found and think might have potential is a **Sleeper**. This is used when a song is in 
+an uncertain place. This song has _potential_ to someday become something.
 - Songs enter the ladder as a **Heater** and move up as they prove themselves:
-  Heater, Fire, Banger, then the certified tiers.
-- **Platinum** is the top of what a song earns. **Generational** is a Platinum
+  Heater, Fire, Banger, then the certified tiers. Very few songs become certified. So use this sparingly.
+- **Platinum** is the top of what a song can earn. **Generational** is a Platinum
   that will never fall off.
 
 ## Example
 
-- "Other Side" by Macklemore: Generational Banger. Whether to call it a
-  "Certified Generational Banger" is still being chewed on.
+- "Don't Stop Believing" by Journey: Generational Banger.
 
 ## Open questions
 
