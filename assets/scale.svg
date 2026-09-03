@@ -28,7 +28,7 @@
 
   <text x="70" y="60" font-size="26" font-weight="700" fill="#f9fafb" letter-spacing="0.5">MUSIC RATING SCALE</text>
   <text x="70" y="86" font-size="14" fill="#9ca3af">Banger is the noun. Songs enter at the bottom and move up as they prove themselves.</text>
-  <text x="840" y="60" font-size="12" fill="#6b7280" text-anchor="end">v0 · work in progress</text>
+  <text x="716" y="60" font-size="12" fill="#6b7280">v0 · work in progress</text>
 
   <!-- axis -->
   <line x1="44" y1="560" x2="44" y2="160" stroke="#4b5563" stroke-width="2" marker-end="url(#arrow)"/>
